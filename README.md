@@ -1,5 +1,5 @@
 # Turing simulator
-Command line format:
+Command line format:\n
 Turing.exe inputTable.txt inputTape.txt output.txt -a [p]/-o
 -a run in standard mode
 -o run debug
