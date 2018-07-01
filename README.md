@@ -1,6 +1,8 @@
 # Turing simulator
-Command line format:\n
+Command line format:
+
 Turing.exe inputTable.txt inputTape.txt output.txt -a [p]/-o
+
 -a run in standard mode
 -o run debug
 p number of steps
