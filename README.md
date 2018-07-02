@@ -19,7 +19,7 @@ Format inputTape.txt:
 
 `____v_____`
 
-.2..39.91.
+`.2..39.91.`
 
 If you run debug:
 
