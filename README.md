@@ -17,7 +17,7 @@ D - the direction of move (L - left, R - right, H - no move).
 
 Format inputTape.txt:
 
-1)____v_____
+1)"____v_____"
 
 2).2..39.91.
 
