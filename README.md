@@ -15,9 +15,7 @@ n and k - the states (the first state is always 1, the last state is always 0)
 
 D - the direction of move (L - left, R - right, H - no move).
 
-Format inputTape.txt:
-
-1)"____v_____"
+Format inputTape.txt: ____v_____
 
 2).2..39.91.
 
